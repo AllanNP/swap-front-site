@@ -18,6 +18,7 @@ html,body{
 	border:1px solid #dedede;
 	padding:4px 10px;
 	border-radius: 8px;
+	z-index: 2;
 }
 .s-mobile .s-header-links::before{
 	content: "≡";
